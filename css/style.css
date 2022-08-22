@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: skyblue;
+}
+.imac {
+    background-color: rgb(249, 221, 236);
+}
+.version2001 {
+    font-size: 60px;
+    color:rebeccapurple
+}
+.version2021 {
+    font-size: 30px;
+    color: fuchsia;
+}
+.version2022 {
+    font-size: 30px;
+    color:blueviolet
+}
+.version2020 {
+    font-size: 30px;
+    color:rgb(56, 51, 51)
+}
